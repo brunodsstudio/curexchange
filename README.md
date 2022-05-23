@@ -4,9 +4,11 @@ Forum app é um aplicativo criador em PHP usando LARAVEL 9
 tem como finalidade simular atividade de Cambio de moedas
 
 Usa KIT de Login - BREEZE disponivel para instalação
+
 "composer require laravel/breeze --dev"
 
 composer install
+php artisan install breeze
 npm install
 npm run dev
 
